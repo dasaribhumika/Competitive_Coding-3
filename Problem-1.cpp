@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/pascals-triangle/description/
 // Time Complexity : O(n^2) where n is the input number
 // Space Complexity : O(n) auxiliary space
 // Did this code successfully run on Leetcode : Yes
